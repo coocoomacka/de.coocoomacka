@@ -1,2 +1,2 @@
-# de.coocoomacka
+# CCSC
 Home of the stick
